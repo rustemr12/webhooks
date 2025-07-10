@@ -1,0 +1,15 @@
+{
+  "name": "webhooks",
+  "version": "1.0.0",
+  "description": "Webhooks",
+  "main": "Webhook listener sample application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "base-64": "^1.0.0"
+  }
+}
